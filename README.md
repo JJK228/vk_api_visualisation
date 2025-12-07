@@ -52,3 +52,8 @@ Yandex DataLens
 VK API: https://dev.vk.com
 NetworkX: https://networkx.org
 
+Дашборды:
+
+https://datalens.yandex/l4fz8qaub83w6
+https://datalens.yandex/q9q3i512l73qb
+https://datalens.yandex/7q7r2if89tb0s
